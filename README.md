@@ -47,7 +47,9 @@ PETUNJUK/TUTORIAL :
      
 ![login db](https://user-images.githubusercontent.com/57336670/103364980-a2924200-4af1-11eb-86ec-e6e585eef49b.jpg)
      
-   lalu create database dengan nama : akademik
+   lalu create database dengan nama : 
+      
+     akademik
 
 ![create db](https://user-images.githubusercontent.com/57336670/103365511-d3bf4200-4af2-11eb-8f6a-3688eaed00d1.jpg)
 
@@ -58,7 +60,7 @@ PETUNJUK/TUTORIAL :
    
    buat kolom table dengan format :
       
-      Nim | int | length (10) | options (kosong) | NOT NULL | AI (isi, yang merupakan primary key) |
+      Nim | int | length (11) | options (kosong) | NOT NULL | AI (isi, yang merupakan primary key) |
       Nama_Mhs | varchar | length (50) | NOT NULL | options (latin1)
       Jenis_Kelamin | varchar | length (50) | NOT NULL | options (latin1)
       Program_Studi | varchar | length (50) | NOT NULL | options (latin1)
