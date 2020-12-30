@@ -1,8 +1,8 @@
 # Cloud195410028
 
 LINK IMAGE Docker hub :
-   php:7.4-apache :
    
+   php:7.4-apache :
    
       https://hub.docker.com/_/php
       
@@ -58,6 +58,3 @@ PETUNJUK/TUTORIAL :
    
      docker-compose down
      
-
-     
-      
